@@ -10,3 +10,7 @@ Genel bir kural olarak, artık yıllar 4 rakamının katı olan yıllardır:
  * Örneğin 1200, 1600, 2000 yılları artık yıldır ancak 1700, 1800 ve 1900 artık yıl değildir.
 Sadece 400'e tam olarak bölünebilenlerin artık yıl kabul edilmesinin nedeni, bir astronomik yılın 365,25 gün değil, yaklaşık olarak 365,242 gün olmasından kaynaklanan hatayı gidermektir.
 
+<a href="https://app.patika.dev/rosalie" target="blank"><img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" height="110" alt="Patika Badge"/></a>
+ ## Patika.dev 
+
+[Click me to go to Patika.dev!](https://www.patika.dev/tr/bootcamp)
